@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abubakr918
 - 👀 I’m interested in Web Development  
 - 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on WEeb Development Projects
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me ? E-mail me or whatsapp at +923355704047
 
 <!---
