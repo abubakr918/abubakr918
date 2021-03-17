@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development  
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on Web Development Projects
-- 📫 How to reach me ? E-mail me or whatsapp at +923355704047
+- 📫 How to reach me ? E-mail me  (muhammadabubakr301@gmail.com) or whatsapp at +923355704047
 
 <!---
 abubakr918/abubakr918 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
